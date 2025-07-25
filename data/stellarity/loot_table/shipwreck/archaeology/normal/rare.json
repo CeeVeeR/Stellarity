@@ -20,15 +20,8 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:friend_pottery_sherd"
-        },
-        {
-          "type": "minecraft:loot_table",
-          "value": "stellarity:item/material/enderite_smithing_template"
-        },
-        {
-          "type": "minecraft:loot_table",
-          "value": "stellarity:item/music_disc/fires_of_hokkai"
         }
+      
       ]
     }
   ]

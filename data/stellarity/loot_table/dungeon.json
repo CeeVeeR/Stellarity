@@ -1,24 +1,7 @@
 {
   "type": "minecraft:chest",
   "pools": [
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:loot_table",
-          "value": "stellarity:item/material/enderite_shard",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1,
-                "max": 2
-              }
-            }
-          ]
-        }
-      ]
-    },
+ 
     {
       "rolls": {
         "min": 1,
@@ -156,19 +139,7 @@
           "name": "minecraft:spire_armor_trim_smithing_template"
         }
       ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:empty",
-          "weight": 9
-        },
-        {
-          "type": "minecraft:loot_table",
-          "value": "stellarity:item/material/enderite_smithing_template"
-        }
-      ]
     }
+
   ]
 }

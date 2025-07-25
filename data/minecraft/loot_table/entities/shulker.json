@@ -39,40 +39,8 @@
           ]
         }
       ]
-    },
-    {
-      "rolls": 1,
-      "conditions": [
-        {
-          "condition": "minecraft:inverted",
-          "term": {
-            "entity": "this",
-            "condition": "entity_properties",
-            "predicate": {
-              "nbt": "{Tags:[\"stellarity.obstruct.walls_solid\"]}"
-            }
-          }
-        }
-      ],
-      "entries": [
-        {
-          "type": "minecraft:loot_table",
-          "value": "stellarity:item/food/shulker_body",
-          "conditions": [
-            {
-              "condition": "minecraft:random_chance_with_enchanted_bonus",
-              "enchantment": "minecraft:looting",
-              "unenchanted_chance": 0.75,
-              "enchanted_chance": {
-                "type": "minecraft:linear",
-                "base": 0.8,
-                "per_level_above_first": 0.05
-              }
-            }
-          ]
-        }
-      ]
-    }
+    } 
+ 
   ],
   "random_sequence": "minecraft:entities/shulker"
 }
