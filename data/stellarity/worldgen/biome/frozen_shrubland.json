@@ -39,12 +39,7 @@
         "minCount": 4,
         "maxCount": 4
       },
-      {
-        "type": "minecraft:skeleton",
-        "weight": 35,
-        "minCount": 4,
-        "maxCount": 4
-      },
+  
       {
         "type": "minecraft:silverfish",
         "weight": 10,
@@ -64,10 +59,7 @@
       "energy_budget": 0.6,
       "charge": 1
     },
-    "minecraft:skeleton": {
-      "energy_budget": 0.4,
-      "charge": 1
-    },
+ 
     "minecraft:silverfish": {
       "energy_budget": 0.5,
       "charge": 1
@@ -95,7 +87,6 @@
     [],
     [],
     [
-      "stellarity:frozen_shrubland/chorus_plant",
       "stellarity:frozen_shrubland/shrubs",
       "stellarity:frozen_shrubland/grass"
     ],

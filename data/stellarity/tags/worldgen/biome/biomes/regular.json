@@ -7,7 +7,6 @@
     "stellarity:amethyst_forest",
     "stellarity:ashfall_deltas",
     "stellarity:warped_marsh",
-    "stellarity:end_wilds",
     "stellarity:ender_wastes",
     "stellarity:flesh_tundra",
     "stellarity:the_nest",
@@ -20,7 +19,7 @@
     "stellarity:hallowed_tundra",
     "stellarity:prismatic_dunes",
     "stellarity:frozen_marsh",
-    "stellarity:frozen_shrubland",
-    "stellarity:end_shrubland"
+    "stellarity:frozen_shrubland"
+ 
   ]
 }

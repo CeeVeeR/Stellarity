@@ -34,7 +34,7 @@
   "spawners": {
     "monster": [
       {
-        "type": "minecraft:skeleton",
+        "type": "minecraft:enderman",
         "weight": 11,
         "minCount": 2,
         "maxCount": 2
@@ -42,7 +42,7 @@
     ]
   },
   "spawn_costs": {
-    "skeleton": {
+    "enderman": {
       "charge": 1,
       "energy_budget": 0.75
     }

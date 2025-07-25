@@ -36,12 +36,6 @@
         "weight": 40,
         "minCount": 4,
         "maxCount": 4
-      },
-      {
-        "type": "minecraft:skeleton",
-        "weight": 5,
-        "minCount": 2,
-        "maxCount": 3
       }
     ],
     "creature": [],

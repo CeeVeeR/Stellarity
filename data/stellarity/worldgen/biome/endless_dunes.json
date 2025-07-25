@@ -36,34 +36,16 @@
         "weight": 80,
         "minCount": 4,
         "maxCount": 4
-      },
-      {
-        "type": "minecraft:zombie",
-        "weight": 30,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:skeleton",
-        "weight": 15,
-        "minCount": 4,
-        "maxCount": 4
-      }
+      } 
+ 
     ]
   },
   "spawn_costs": {
     "minecraft:enderman": {
       "energy_budget": 0.3,
       "charge": 1
-    },
-    "minecraft:zombie": {
-      "energy_budget": 0.14,
-      "charge": 1
-    },
-    "minecraft:skeleton": {
-      "energy_budget": 0.15,
-      "charge": 1
-    }
+    } 
+ 
   },
   "carvers": [
     "stellarity:ravine",

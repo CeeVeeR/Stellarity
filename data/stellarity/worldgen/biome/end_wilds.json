@@ -39,12 +39,7 @@
         "minCount": 4,
         "maxCount": 4
       },
-      {
-        "type": "minecraft:zombie",
-        "weight": 30,
-        "minCount": 4,
-        "maxCount": 4
-      },
+ 
       {
         "type": "minecraft:phantom",
         "weight": 10,
@@ -58,10 +53,7 @@
       "charge": 0.7,
       "energy_budget": 1
     },
-    "minecraft:zombie": {
-      "charge": 0.7,
-      "energy_budget": 1
-    },
+ 
     "minecraft:phantom": {
       "energy_budget": 0.3,
       "charge": 1
@@ -70,9 +62,8 @@
   "carvers": [],
   "features": [
     [
-      "stellarity:global/stalactite",
-      "stellarity:end_wilds/dirt",
-      "stellarity:end_wilds/roots"
+      "stellarity:global/stalactite"
+ 
     ],
     [],
     [],
@@ -81,13 +72,7 @@
     [],
     [],
     [],
-    [
-      "stellarity:end_wilds/single_tree",
-      "stellarity:end_wilds/baobab_forest",
-      "stellarity:end_wilds/chorus_plant",
-      "stellarity:end_wilds/grass",
-      "stellarity:end_wilds/large_bushes"
-    ],
+ 
     [
       "stellarity:global/end_dungeon",
       "stellarity:global/fossil"

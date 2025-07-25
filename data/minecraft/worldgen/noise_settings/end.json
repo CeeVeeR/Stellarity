@@ -42,8 +42,7 @@
         "if_true": {
           "type": "minecraft:biome",
           "biome_is": [
-            "stellarity:end_wilds",
-            "stellarity:end_shrubland",
+          
             "minecraft:end_midlands"
           ]
         },

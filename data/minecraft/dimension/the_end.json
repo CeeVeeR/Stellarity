@@ -726,66 +726,7 @@
             "offset": 0
           }
         },
-        {
-          "biome": "stellarity:end_wilds",
-          "parameters": {
-            "temperature": [
-              -0.405,
-              0.48
-            ],
-            "humidity": [
-              -1,
-              -0.19
-            ],
-            "continentalness": [
-              -0.15,
-              1
-            ],
-            "erosion": [
-              -0.065,
-              0.545
-            ],
-            "weirdness": [
-              -1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          }
-        },
-        {
-          "biome": "stellarity:end_wilds",
-          "parameters": {
-            "temperature": [
-              -0.405,
-              0.2
-            ],
-            "humidity": [
-              -0.19,
-              0.045
-            ],
-            "continentalness": [
-              -0.15,
-              1
-            ],
-            "erosion": [
-              -0.065,
-              0.545
-            ],
-            "weirdness": [
-              -1,
-              -0.05
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          }
-        },
+ 
         {
           "biome": "minecraft:end_midlands",
           "parameters": {
@@ -906,36 +847,7 @@
             "offset": 0
           }
         },
-        {
-          "biome": "stellarity:end_shrubland",
-          "parameters": {
-            "temperature": [
-              0.2,
-              0.48
-            ],
-            "humidity": [
-              -0.19,
-              0.045
-            ],
-            "continentalness": [
-              -0.15,
-              1
-            ],
-            "erosion": [
-              -0.065,
-              0.545
-            ],
-            "weirdness": [
-              -1,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          }
-        },
+
         {
           "biome": "minecraft:end_midlands",
           "parameters": {
@@ -1326,66 +1238,7 @@
             "offset": 0
           }
         },
-        {
-          "biome": "stellarity:end_wilds",
-          "parameters": {
-            "temperature": [
-              -0.405,
-              0.48
-            ],
-            "humidity": [
-              -1,
-              -0.19
-            ],
-            "continentalness": [
-              -0.15,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              0.545
-            ],
-            "weirdness": [
-              -0.26666668,
-              0.05
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          }
-        },
-        {
-          "biome": "stellarity:end_wilds",
-          "parameters": {
-            "temperature": [
-              -0.405,
-              0.2
-            ],
-            "humidity": [
-              -0.19,
-              0.045
-            ],
-            "continentalness": [
-              -0.15,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              0.545
-            ],
-            "weirdness": [
-              -0.26666668,
-              -0.05
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          }
-        },
+ 
         {
           "biome": "minecraft:end_midlands",
           "parameters": {
@@ -1506,36 +1359,7 @@
             "offset": 0
           }
         },
-        {
-          "biome": "stellarity:end_shrubland",
-          "parameters": {
-            "temperature": [
-              0.2,
-              0.48
-            ],
-            "humidity": [
-              -0.19,
-              0.045
-            ],
-            "continentalness": [
-              -0.15,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              0.545
-            ],
-            "weirdness": [
-              -0.26666668,
-              0.05
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          }
-        },
+    
         {
           "biome": "minecraft:end_midlands",
           "parameters": {
@@ -1926,36 +1750,7 @@
             "offset": 0
           }
         },
-        {
-          "biome": "stellarity:end_shrubland",
-          "parameters": {
-            "temperature": [
-              -0.405,
-              0.48
-            ],
-            "humidity": [
-              -0.19,
-              0.045
-            ],
-            "continentalness": [
-              -0.15,
-              1
-            ],
-            "erosion": [
-              -0.375,
-              0.545
-            ],
-            "weirdness": [
-              -0.05,
-              0.05
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          }
-        },
+    
         {
           "biome": "minecraft:end_midlands",
           "parameters": {
@@ -2196,36 +1991,7 @@
             "offset": 0
           }
         },
-        {
-          "biome": "stellarity:end_shrubland",
-          "parameters": {
-            "temperature": [
-              -0.405,
-              0.48
-            ],
-            "humidity": [
-              -0.19,
-              0.045
-            ],
-            "continentalness": [
-              -0.15,
-              1
-            ],
-            "erosion": [
-              -0.065,
-              0.545
-            ],
-            "weirdness": [
-              0.05,
-              1
-            ],
-            "depth": [
-              0,
-              0
-            ],
-            "offset": 0
-          }
-        },
+    
         {
           "biome": "minecraft:end_midlands",
           "parameters": {

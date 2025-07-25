@@ -37,12 +37,7 @@
         "minCount": 2,
         "maxCount": 2
       },
-      {
-        "type": "minecraft:skeleton",
-        "weight": 15,
-        "minCount": 2,
-        "maxCount": 2
-      },
+ 
       {
         "type": "minecraft:zombified_piglin",
         "weight": 40,
@@ -52,10 +47,7 @@
     ]
   },
   "spawn_costs": {
-    "minecraft:skeleton": {
-      "energy_budget": 0.8,
-      "charge": 1
-    },
+ 
     "minecraft:silverfish": {
       "energy_budget": 0.5,
       "charge": 1

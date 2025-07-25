@@ -1,9 +1,6 @@
 {
   "structures": [
-    {
-      "structure": "stellarity:campsite",
-      "weight": 1
-    },
+ 
     {
       "structure": "stellarity:desert_ruin",
       "weight": 3

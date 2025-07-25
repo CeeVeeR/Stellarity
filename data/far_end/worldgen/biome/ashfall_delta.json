@@ -34,7 +34,7 @@
   "spawners": {
     "monster": [
       {
-        "type": "minecraft:skeleton",
+        "type": "minecraft:enderman",
         "weight": 11,
         "minCount": 2,
         "maxCount": 2
