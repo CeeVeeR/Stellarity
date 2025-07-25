@@ -281,7 +281,7 @@ team modify stellarity.dragon.pacify_others friendlyFire false
           schedule function stellarity:loop/timed/3_tick 3t append
           schedule function stellarity:loop/timed/5_tick 5t append
           schedule function stellarity:loop/timed/1_second 1s append
-          schedule function stellarity:loop/timed/5_second 5s append
+  
 
         # Get world difficulty
           execute store result score #difficulty stellarity.misc run difficulty
