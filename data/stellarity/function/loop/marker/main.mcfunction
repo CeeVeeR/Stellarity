@@ -6,17 +6,6 @@ function stellarity:item/main_marker
  
 
  
-execute if entity @s[tag=stellarity.end_portal] run function stellarity:sfx/end_portal/marker_loop
-execute if entity @s[tag=stellarity.end_portal_animation] run function stellarity:sfx/end_portal/open_animation/main
-execute if entity @s[tag=stellarity.end_portal.beam_thingy] run function stellarity:sfx/end_portal/beam_thingy/move
-
- 
-execute if entity @s[tag=stellarity.end_gateway_anim] run function stellarity:sfx/end_gateway_anim/main
-
- 
- 
-
-execute if entity @s[tag=stellarity.waystone] run function stellarity:post_gen/waystone
  
  
 scoreboard players add @s stellarity.misc.loop.1s 1

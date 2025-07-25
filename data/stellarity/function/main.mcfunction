@@ -1,5 +1,5 @@
  
-function stellarity:sfx/main
+ 
 function stellarity:util/main
 
 execute as @a at @s run function stellarity:loop/player/main
